@@ -1,0 +1,2 @@
+# lotato.github.io
+lotato
